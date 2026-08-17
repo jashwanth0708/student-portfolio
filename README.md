@@ -20,3 +20,9 @@ I am a student learning software development and Git.
 
 
 I am a student interested in programming and technology.
+
+- Python
+- C
+- Data Structures
+- Git
+- GitHub
