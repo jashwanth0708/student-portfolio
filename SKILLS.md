@@ -1,12 +1,6 @@
-\- Python
-
-\- C
-
-\- Data Structures
-
-\- Git
-
-\- GitHub
-
-\-sql
-
+# Skills
+- Python
+- C
+- Data Structures
+- Git
+- GitHub
