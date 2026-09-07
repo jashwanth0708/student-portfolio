@@ -1,7 +1,6 @@
-# Technical Skills
-
+# Skills
 - Python
-- Java
-- SQL
-- HTML & CSS
-- Git & GitHub
+- C
+- Data Structures
+- Git
+- GitHub
